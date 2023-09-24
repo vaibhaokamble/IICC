@@ -1,0 +1,45 @@
+1) explain analog and digital trasmission.
+
+Analog Transmission
+An analog wave form (or signal) is characterized by being continuously variable along amplitude and frequency. 
+In the case of telephony, for instance, when you speak into a handset, there are changes in the air pressure around your mouth. 
+Those changes in air pressure fall onto the handset, where they are amplified and then converted into current, or voltage fluctuations.
+Those fluctuations in current are an analog of the actual voice pattern—hence the use of the term analog to describe these signals.
+
+Analog facilities have limited bandwidth, which means they cannot support high-speed data. 
+Another characteristic of analog is that noise is accumulated as the signal traverses the network. 
+As the signal moves across the distance, it loses power and becomes impaired by factors such as moisture in the cable, dirt on a contact, 
+and critters chewing on the cable somewhere in the network. By the time the signal arrives at the amplifier, it is not only attenuated, 
+it is also impaired and noisy. One of the problems with a basic amplifier is that it is a dumb device. All it knows how to do is to add power, 
+so it takes a weak and impaired signal, adds power to it, and brings it back up to its original power level. But along with an increased signal, 
+the amplifier passes along an increased noise level. So in an analog network, each time a signal goes through an amplifier, it accumulates noise. 
+After you mix together coffee and cream, you can no longer separate them. The same concept applies in analog networks: After you mix the signal and the noise,
+you can no longer separate the two, and, as a result, you end up with very high error rates
+
+
+Digital Transmission
+Digital transmission is quite different from analog transmission. For one thing, the signal is much simpler. 
+Rather than being a continuously variable wave form, it is a series of discrete pulses, representing one bits and zero bits (see Figure 2.10).
+ Each computer uses a coding scheme that defines what combinations of ones and zeros constitute all the characters in a 
+character set (that is, lowercase letters, uppercase letters, punctuation marks, digits, keyboard control functions).
+
+How the ones and zeros are physically carried through the network depends on whether the network is electrical or optical. In electrical networks, 
+one bits are represented as high voltage, and zero bits are represented as null, or low voltage. 
+In optical networks, one bits are represented by the presence of light, and zero bits are represented by the absence of light. 
+The ones and zeros—the on/off conditions—are carried through the network, and the receiving device repackages the ones and zeros to determine what 
+character is being represented. Because a digital signal is easier to reproduce than an analog signal, we can treat it with a little less care in the network. 
+Rather than use dumb amplifiers, digital networks use regenerative repeaters, also referred to as signal regenerators. As a strong, clean, digital pulse travels over a 
+distance, it loses power, similar to an analog signal. The digital pulse, like an analog signal, is eroded by impairments in the network.
+But the weakened and impaired signal enters the regenerative repeater, where the repeater examines the signal to determine what was supposed to be a one and what was 
+supposed to be a zero. The repeater regenerates a new signal to pass on to the next point in the network, in essence eliminating noise and thus vastly improving the error rate.
+
+2) what is ISDN explain in detail.
+
+
+3) what are designing issue of datalink layer.
+
+4) what are slinding windows protocal.
+
+5) write about conjection control algorithm.
+
+6) what is OSI reference model write about network structure and architechture of OSI layer.

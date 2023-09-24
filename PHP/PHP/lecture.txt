@@ -1,0 +1,34 @@
+DATATYPE
+_________
+$x="hello world"----->string
+$x=12345 -----> integer
+$x=12.45 -----> float
+$x=12345 -----> integer
+$x=-12345 -----> integer
+$x=true -----> boolen
+$x=array()"html","css","js" -----> array
+$x=new myclass; ----> object
+$x=null; -----> null
+
+Comment purpose
+_______________
+1) to tell about the code
+2) testing purpose
+single line comment ----> //
+multiline comment ------> */......*/
+
+
+PHP Variable
+_____________
+define (test,500)
+echo test;
+
+Arithmatic oparation
+_____________________
+addition ----> +
+sub -----> -
+multiplication ---> *
+division ---> /
+modulus/reminder ---> %
+increment ---> ++
+descrement ---> --

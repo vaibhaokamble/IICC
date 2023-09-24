@@ -1,0 +1,48 @@
+unit 1
+______
+1) explain analog and digital trasmission.
+
+2) what is ISDN explain in detail.
+
+3) what are designing issue of datalink layer.
+
+4) what are slinding windows protocal.
+
+5) write about conjection control algorithm.
+
+6) what is OSI reference model write about network structure and architechture of OSI layer.
+
+unit 2
+_______
+1) what are designing issues of application layer and presentation layer.
+
+2) what are data compression technique use at presentation layer.
+
+3) explain working of RPC.
+
+4) explain working of transport layer and write a note about its designing issues.
+
+unit 3
+_______
+1) what are valnabirities and security thread in network.
+
+2) what is cryptography explain its componants.
+
+3) explain asymetric key encryption.
+
+4) explain symmetric key encryption and explain silent feature.
+
+5) explain conventional DES encryption standard.
+
+unit 4
+_______
+
+1) what are firewalls,explsin packet filter.
+
+2) what is HASH function and SHA.
+
+3) explain RSA diffie heliman public key system.
+
+4) what are introjen technich and how introjen detechted.
+
+5) explain key mannagement in detail.

@@ -1,0 +1,9 @@
+PHP Assignment unit 4
+1.how to draw and create image in php?
+2.WAP to genrate XML.
+3.writ shell command for php.
+4.what is cross site scripting and write aprogram for it.
+5.write short note on SQL injection.
+6.what is filter input explain it.
+7.how to transfer XML with XSLT.
+8.demonstrate how to create and modify image files in a variety of formate within php

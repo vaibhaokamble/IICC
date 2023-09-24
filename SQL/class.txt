@@ -1,0 +1,16 @@
+Database Recovery Technical
+____________________________
+database recovery :
+1)purpose of database recovery
+2)types of failure 
+3)trasaction log
+4)data update
+5)data catching
+6)trasaction roll-back (Undo) and roll-forword (Redo)
+7)check pointing
+	a) fuzzy checkpointing 
+8)recovery scheme
+9)ARIES recovery scheme
+10)Recovery into multiple database system
+
+WAL(Write Ahead Loging)

@@ -1,0 +1,15 @@
+D:\IICC\MyCSharp\bin\Debug\net7.0\MyCSharp.exe
+D:\IICC\MyCSharp\bin\Debug\net7.0\MyCSharp.deps.json
+D:\IICC\MyCSharp\bin\Debug\net7.0\MyCSharp.runtimeconfig.json
+D:\IICC\MyCSharp\bin\Debug\net7.0\MyCSharp.dll
+D:\IICC\MyCSharp\bin\Debug\net7.0\MyCSharp.pdb
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.csproj.AssemblyReference.cache
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.AssemblyInfoInputs.cache
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.AssemblyInfo.cs
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.csproj.CoreCompileInputs.cache
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.dll
+D:\IICC\MyCSharp\obj\Debug\net7.0\refint\MyCSharp.dll
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.pdb
+D:\IICC\MyCSharp\obj\Debug\net7.0\MyCSharp.genruntimeconfig.cache
+D:\IICC\MyCSharp\obj\Debug\net7.0\ref\MyCSharp.dll

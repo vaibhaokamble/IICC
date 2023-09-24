@@ -1,0 +1,16 @@
+127.0.0.1 - - [14/Aug/2023:17:29:06 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:29:07 +0530] "GET /Student_Result_Managment_Syste/adminHome.jsp HTTP/1.1" 200 40054
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:29:07 +0530] "GET /Student_Result_Managment_Syste/rtmnu.png HTTP/1.1" 200 56118
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:29:10 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [14/Aug/2023:17:40:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:40:24 +0530] "GET /Student_Result_Managment_Syste/user.png HTTP/1.1" 200 22159
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:40:30 +0530] "POST /Student_Result_Managment_Syste/adminLoginAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:40:31 +0530] "GET /Student_Result_Managment_Syste/adminHome.jsp HTTP/1.1" 200 40054
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:41:42 +0530] "POST /Student_Result_Managment_Syste/addNewStudent.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:17:41:42 +0530] "GET /Student_Result_Managment_Syste/adminHome.jsp HTTP/1.1" 200 40278
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:18:34:34 +0530] "POST /Student_Result_Managment_Syste/adminLoginAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:18:34:34 +0530] "GET /Student_Result_Managment_Syste/adminHome.jsp HTTP/1.1" 200 40278
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:18:41:04 +0530] "GET /Student_Result_Managment_Syste/dgiOneView.html HTTP/1.1" 200 700
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:18:41:04 +0530] "GET /Student_Result_Managment_Syste/result.png HTTP/1.1" 200 713512
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:18:42:07 +0530] "POST /Student_Result_Managment_Syste/studentHome.jsp HTTP/1.1" 200 4536
+0:0:0:0:0:0:0:1 - - [14/Aug/2023:18:42:07 +0530] "GET /Student_Result_Managment_Syste/print.png HTTP/1.1" 200 1256

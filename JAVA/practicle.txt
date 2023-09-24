@@ -1,0 +1,41 @@
+1) write a java programming to find the volume of box.
+
+2) write a java progrmming to find the volume of two boxes.
+
+3) write a java programming to find the area of rectangle.
+
+4) write a java programming to find the area of circle.
+
+5) write a java programming to assign the object referece variable.
+
+6) write a java programming to assign the one object to another object.
+
+7) create a classes rectangle and box and find out thier name by using methods.
+
+8) find the volume of box using method.
+
+9) write a program find the volume of box using constructor.
+
+10) write a program to demostrate namespace collison.
+
+11) write a program to demostrate this keyword.
+
+12) write a program to demostrate finalize().
+
+13) write a program to compute volume of box and cube by using constructor overloading.
+
+14) Write a program to demostrate concept of reference to object.
+
+15) Write a program in java to create a main thread.
+
+16) Write a program create a thread by extending a class.
+
+17)	Write a program in java to create the two child thread by extending a thread class.
+
+18)	Write a proSgram in java to create the thread by using runnable interface.
+
+19) Write a program in java to create child thread by implimenting 
+
+20) Write a program in java to demostrate ISALIVE() and JOIN() method of a thread.
+
+21) Write a program in java to 

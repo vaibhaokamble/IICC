@@ -1,0 +1,38 @@
+Physical Backup
+_______________
+A Physical backup can be hot and cold.
+hot backup :
+user can modified the database during the hot backup log file of changes are applied to synchronize the
+database and the backup copy.
+hot backup is use when full backup is needed and service  level does not allow system downtown for cold
+backup.
+cold backup :
+can not modify the database during the  cold backup  so databse and backup the backup copy ate always 
+synchronize.
+cold backup is used is only when the service level allows for system downtime.
+you can perform cold backup.
+
+Full create data file
+_______________________
+control file
+transaction file(redo logs)
+archive file
+data file
+
+Incremental :
+
+Backup type: 
+____________
+1) physical backup
+2) logical backup
+
+Backup Tools
+_____________
+1) Oracle Recover Manager (RMAN)
+2) Oracle Data Pump 
+
+User Managed Backup
+____________________
+hot backup mode cause additional write operation to the online log files,incresing thier size.
+backup operation can also be automated by writing script.
+

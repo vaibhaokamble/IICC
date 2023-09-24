@@ -1,0 +1,6 @@
+127.0.0.1 - - [22/Sep/2023:10:20:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Sep/2023:10:20:09 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [22/Sep/2023:10:20:11 +0530] "GET /Student_Result_Managment_Syste/dgiOneView.html HTTP/1.1" 200 700
+0:0:0:0:0:0:0:1 - - [22/Sep/2023:10:20:11 +0530] "GET /Student_Result_Managment_Syste/result.png HTTP/1.1" 200 713512
+0:0:0:0:0:0:0:1 - - [22/Sep/2023:10:20:14 +0530] "POST /Student_Result_Managment_Syste/studentHome.jsp HTTP/1.1" 200 4536
+0:0:0:0:0:0:0:1 - - [22/Sep/2023:10:20:14 +0530] "GET /Student_Result_Managment_Syste/print.png HTTP/1.1" 200 1256

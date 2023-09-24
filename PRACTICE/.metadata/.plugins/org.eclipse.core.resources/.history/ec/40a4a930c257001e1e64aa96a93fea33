@@ -1,0 +1,26 @@
+package org.vaibhao;
+
+class Student{
+	void acceptDetails(String name,String email,int contact,int adhar) {
+		System.out.println("Name is "+name);
+		System.out.println("email is "+email);
+		System.out.println("Contact is "+contact);
+		System.out.println("Adhar is "+adhar);
+		
+	}
+	void acceptDetails(String name,String email,int contact,String pan) {
+		System.out.println("Name is "+name);
+		System.out.println("email is "+email);
+		System.out.println("Contact is "+contact);
+		System.out.println("Pan is "+pan);
+	}
+}
+public class StudentOverloadApp {
+
+	public static void main(String[] args) {
+		Student s = new Student();
+		s.acceptDetails("vaibhao", "vaibhao@gmail", 8668822, 7711);
+		s.acceptDetails("kamble", "kamble@gmail.com", 76441, "HJD562");
+	}
+
+}

@@ -1,0 +1,11 @@
+1) explain analog and digital trasmission.
+
+2) what is ISDN explain in detail.
+
+3) what are designing issue of datalink layer.
+
+4) what are slinding windows protocal.
+
+5) write about conjection control algorithm.
+
+6) what is OSI reference model write about network structure and architechture of OSI layer.

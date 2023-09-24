@@ -1,0 +1,22 @@
+<%@ page import="project.ConnectionProvider"%>
+<%@ page import="java.sql.*"%>
+<%
+String roll_number=request.getParameter("roll_number");
+String avdance_java=request.getParameter("advance_java");
+String php=request.getParameter("php");
+String dbms=request.getParameter("dbms");
+String dcn=request.getParameter("dcn");
+String se=request.getParameter("se");
+String practical_1=request.getParameter("practical_1");
+String practical_2=request.getParameter("practical_2");
+try{
+	Connection con=ConnectionProvider.getCon();
+	Statement st=con.createStatement();
+	st.executeUpdate("insert into res values(' "+roll_number+" ',' "+advance_java+" ',' "+php+" ',' "+dbms+" ',' "+dcn+" ',' "+se+" ',' "+p1+" ',' "+p2+" ')");
+	response.sendRedirect("adminHome.jsp");
+	
+}
+catch(Exception e){
+	out.println(e);
+}
+%>

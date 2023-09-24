@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List Box Demo</title>
+    <script>
+        function addItem() {
+            var newItem = document.getElementById("newItem").value;
+            var listBox = document.getElementById("listBox");
+            
+            if (newItem.trim() !== "") {
+                var option = document.createElement("option");
+                option.text = newItem;
+                listBox.add(option);
+                document.getElementById("newItem").value = "";
+            }
+        }
+        
+        function deleteItem() {
+            var listBox = document.getElementById("listBox");
+            var selectedIndex = listBox.selectedIndex;
+            
+            if (selectedIndex !== -1) {
+                listBox.remove(selectedIndex);
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>List Box Demo</h1>
+    
+    <label for="newItem">New Item:</label>
+    <input type="text" id="newItem">
+    <button onclick="addItem()">Add</button>
+    <button onclick="deleteItem()">Delete</button>
+    
+    <br><br>
+    
+    <label for="listBox">Items:</label>
+    <select id="listBox" size="5">
+        <!-- List box items will be displayed here -->
+    </select>
+</body>
+</html>

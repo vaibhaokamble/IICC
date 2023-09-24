@@ -1,0 +1,23 @@
+package org.vaibhao;
+
+class Overload{
+	void calAdd(int a,int b) {
+		System.out.println("Addition of interger is ="+(a+b));
+	}
+	void calAdd(float a,float b) {
+		System.out.println("Addition of float is = "+(a+b));
+	}
+	void calAdd(double a,double b) {
+		System.out.println("Addition of double is = "+(a+b));
+	}
+}
+public class OverloadConstructorApplication {
+
+	public static void main(String[] args) {
+		Overload o= new Overload();
+		o.calAdd(100, 20);
+		o.calAdd(67f, 60f);
+		o.calAdd(132, 46);
+	}
+
+}

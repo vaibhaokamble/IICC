@@ -1,0 +1,25 @@
+Client Server Database : Basic Concept
+________________________________________
+
+1) two tier client/server structure :
+   client tier.
+   server tier.
+	eg.web server
+
+Advantages of two tier client
+_______________________________
+this structure is quite easy to maintain modification.
+communication between the client and server the form of request message is quite fast.
+
+
+2) three tier client :
+	client.
+	application.
+	database.
+
+Basic client / Server Architectures :
+_____________________________________
+
+Logical two tier client/server architechture:
+______________________________________________
+
