@@ -1,0 +1,22 @@
+package org.vaibhao;
+class Employee{
+	private String name;
+	private int id;
+	private float salary;
+	
+	void setEmployee(String n,int i,float s) {
+		name=n;
+		id=i;
+		salary=s;
+	}
+	void showEmployee() {
+		System.out.println("details of employee is ="+name +id +salary);
+	}
+}
+public class EmployeeApp {
+	public static void main(String [] args) {
+		Employee emp= new Employee();
+		emp.setEmployee("vaibhao", 1, 500000);
+		emp.showEmployee();
+	}
+}

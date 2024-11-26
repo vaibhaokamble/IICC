@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 darkestApplied=true
 eclipse.preferences.version=1
 enableddarkestdark=true
 themeid=com.genuitec.eclipse.themes.dark
+=======
+eclipse.preferences.version=1
+themeid=org.eclipse.e4.ui.css.theme.e4_dark
+>>>>>>> c2c62fe (first)

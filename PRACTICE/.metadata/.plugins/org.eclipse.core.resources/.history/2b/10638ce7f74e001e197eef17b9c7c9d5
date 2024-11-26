@@ -1,0 +1,26 @@
+package org.vaibhao;
+import java.util.*;
+class Rectangle{
+	float length,width;
+	void setLenghtWidth(float l, float w) {
+		length=l;
+		width=w;
+	}
+	void showRectangle() {
+		System.out.println("The area of rectangle is ="+(length*width));
+	}
+}
+public class RectangleApp {
+
+	public static void main(String[] args) {
+	Scanner v=new Scanner(System.in);
+	System.out.println("Enter the length :");
+	float length=v.nextFloat();
+	System.out.println("Enter the width : ");
+	float width=v.nextFloat();
+	Rectangle r = new Rectangle();
+	r.setLenghtWidth(length, width);
+	r.showRectangle();
+	}
+
+}

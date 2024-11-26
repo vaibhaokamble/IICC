@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SCRIPT_AREA_BORDER=\#F9FAF4 | null | false | false | false | false
 commentBorder=\#D9D9D9 | null | false | false | false | false
 commentText=\#D9D9D9 | null | false | false | false | false
@@ -10,3 +11,7 @@ tagAttributeName=\#38BDFF | null | false | false | false | false
 tagAttributeValue=\#F7C527 | null | false | false | false | false
 tagBorder=\#FF007F | null | false | false | false | false
 tagName=\#03a8d8 | null | true | false | false | false
+=======
+eclipse.preferences.version=1
+newFileTemplateName=New JSP File (html 5)
+>>>>>>> c2c62fe (first)

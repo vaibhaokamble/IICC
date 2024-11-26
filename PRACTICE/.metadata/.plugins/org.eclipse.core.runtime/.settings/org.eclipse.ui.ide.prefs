@@ -1,4 +1,10 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 platformState=1678766850323
 quickStart=false
 tipsAndTricks=true
+=======
+platformState=1678766850282
+quickStart=false
+tipsAndTricks=false
+>>>>>>> c2c62fe (first)

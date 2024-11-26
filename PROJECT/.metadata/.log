@@ -8102,6 +8102,7 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+<<<<<<< HEAD
 !SESSION 2023-09-21 13:39:29.857 -----------------------------------------------
 eclipse.buildId=4.25.0.I20220831-1800
 java.version=19
@@ -10768,3 +10769,5 @@ java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.
 
 !ENTRY org.eclipse.core.jobs 2 2 2023-09-22 15:17:31.876
 !MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.oomph.internal.ui.EarlyStart$1
+=======
+>>>>>>> c2c62fe (first)

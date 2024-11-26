@@ -1,0 +1,53 @@
+KPI 
+
+Total No of Calls 
+Total Call Duration in Hours
+Total Call Duration in Minutes
+Average Call Duration in Minutes
+Response Time Percentage
+
+
+Chart's Requirements
+
+Total Call by Day ( column chart )
+Total Calls by State (filled Map chart)
+Total Reason for calls(Tree Map)
+Total Calls by Channel(Donut Chart)
+Total Calls by Call Centre (Bar Chart)
+
+Total Calls by Sentiment( Donut chart ) bar
+
+
+
+Analysis 
+
+Thu and Fri are busy day
+Highest call from Texas and california 
+
+Billing Question is the Top Reason Segment 
+
+Los Angeles is 
+
+learnings 
+
+connecting to Sql Server
+Data cleaning 
+data modelling 
+data processing
+power query 
+date tables 
+time intelligence func
+DAX
+Date Function
+Custom Charts
+Text Function
+Filter Function
+Calculate
+SUM / SUMX
+Creating KPI's
+New Card Visual
+Creating Charts
+Formatting Visuals
+Creating Functions
+Navigations 
+

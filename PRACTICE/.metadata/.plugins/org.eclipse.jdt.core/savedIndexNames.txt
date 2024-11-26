@@ -1,6 +1,12 @@
 INDEX VERSION 1.131+D:\IICC\PRACTICE\.metadata\.plugins\org.eclipse.jdt.core
+<<<<<<< HEAD
 3040855968.index
 3959137331.index
 1147015520.index
 1865797976.index
 3529962976.index
+=======
+3959137331.index
+1865797976.index
+88467102.index
+>>>>>>> c2c62fe (first)

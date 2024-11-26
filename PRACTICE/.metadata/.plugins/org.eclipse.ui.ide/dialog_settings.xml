@@ -6,6 +6,7 @@
 		<item key="DIALOG_HEIGHT" value="434"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
+<<<<<<< HEAD
 	<section name="NewWizardAction">
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
@@ -20,4 +21,6 @@
 			<item value="D:\IICC\ECLIPSE_PRACTICE"/>
 		</list>
 	</section>
+=======
+>>>>>>> c2c62fe (first)
 </section>

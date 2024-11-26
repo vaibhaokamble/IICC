@@ -46,6 +46,7 @@
 		<item key="DIALOG_HEIGHT" value="889"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
+<<<<<<< HEAD
 	<section name="ProblemSeveritiesConfigurationBlock">
 		<item key="expanded0" value="false"/>
 		<item key="expanded1" value="false"/>
@@ -57,4 +58,6 @@
 		<item key="expanded7" value="false"/>
 		<item key="expanded8" value="true"/>
 	</section>
+=======
+>>>>>>> c2c62fe (first)
 </section>

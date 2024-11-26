@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CONTENT_ASSIST_BACKGROUND_COLOR=46,52,56
 CONTENT_ASSIST_FOREGROUND_COLOR=233,235,237
 content_assist_parameters_background=46,52,56
@@ -44,5 +45,14 @@ semanticHighlighting.methodDeclarationName.strikethrough=false
 semanticHighlighting.methodDeclarationName.underline=false
 tabWidthPropagated=true
 tagName=255,0,127
+=======
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.wst.jsdt.ui.editor.tab.width=
+org.eclipse.wst.jsdt.ui.formatterprofiles.version=11
+org.eclipse.wst.jsdt.ui.javadoclocations.migrated=true
+proposalOrderMigrated=true
+tabWidthPropagated=true
+>>>>>>> c2c62fe (first)
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true
